@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Shot bio
 
 Olivia Chen (オリビア　チェン), also known as Qiuyun Xu and Olivia Xu, is an assistant professor at the Institute of Advanced Sciences of Yokohama National University, Japan. Her current researches include superconducting electronics, extremely high energy-efficient computing, deep learning hardware accelerator and design automation for superconducting VLSI implementation.
 
@@ -16,5 +16,5 @@ Dr. Chen received her PhD degree in Electronic Engineering from YNU, Yokohama, J
 
 
 
-She is a member of IEEE and was a member of IEICE until she forgot to wire the membership fee.
+She is a member of IEEE and ~~was a member of IEICE until she forgot to wire the membership fee~~, she just earned her IEICE membership back by wiring a lot of money.
 [back](./)
