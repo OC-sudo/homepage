@@ -1,1 +1,5 @@
 encoding: utf-8
+theme: jekyll-theme-slate
+title: [Olivia Chen]
+description: [A breif guidebook for human reader]
+show_downloads: ["false"]
