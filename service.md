@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## Service
 
-_yay_
+* Session chair
+
 
 [back](./)
