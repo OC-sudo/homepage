@@ -3,7 +3,7 @@ layout: default
 ---
 
 **Education**
-Ph.D., Yokohama National University
+* Ph.D., Yokohama National University
 
 **Research Interests**
 * Superconductive electronics
