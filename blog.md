@@ -2,8 +2,11 @@
 layout: default
 ---
 
-## Now you are in the year 2019, be aware of it.
+## Now you are in the year of 2019, be aware of it.
 [Highlights of 2018](https://saiilc.github.io/homepage/blog_2018.html)
+
+**Jan. 16 （Wed.）**
+* Attended the 9th Superconducting SFQ VLSI Workshop (SSV) 2019 at NICT. Several researchers were invited from oversea to give talks regarding their recent work. Prof. Fujimaki used a sophisticated metaphor to indicate the future for SFQ when people started to doubt the deep-pipelining nature of SFQ could eliminate the speed advantage if comparing to the conventional CMOS technology. Dr. Wang from SIMIT introduced the recent development of the superconducting electronics in China, this is the first comprehensive introduction to this big project, out of all the "rumors" we have been hearing. 
 
 **Jan. 11 （Fri.）**
 * [Prof. Karl Berggren](http://www.rle.mit.edu/people/directory/karl-berggren/) from MIT visited IAS and gave a nice talk about SSPD applications using superconducting-nanowire. I like some of his ideas/impressions of the superconductivity community.
