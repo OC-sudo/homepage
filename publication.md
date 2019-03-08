@@ -5,6 +5,7 @@ layout: default
 ## Publication
 
 **Journal Publications**
+*   T. Tanaka, C. L. Ayala, **O. Chen**, R. Saito and N. Yoshikawa, ["Fabrication of Adiabatic Quantum-Flux-Parametron Integrated Circuits Using an Automatic Placement Tool Based on Genetic Algorithms"](https://ieeexplore.ieee.org/document/8643945) in IEEE Transactions on Applied Superconductivity. doi: 10.1109/TASC.2019.2900220
 * 	**Q. Xu**, CL. Ayala, N. Takeuchi, Y. Murai, Y. Yamanashi and N. Yoshikawa, ["Synthesis flow for cell-based adiabatic quantum-flux-parametron structural circuit generation with HDL Back-End verification"](http://ieeexplore.ieee.org/abstract/document/7837585/), IEEE Transactions on Applied Superconductivity, vol. 27, no. 4, pp. 1-5, 2017. (Winner of the SNF Best Contributed Preprint Contest)
 * 	**Q. Xu**, CL. Ayala, N. Takeuchi, Y. Yamanashi and N. Yoshikawa, ["HDL-based modeling approach for digital simulation of adiabatic quantum flux parametron logic"](http://ieeexplore.ieee.org/abstract/document/7582438/), IEEE Transactions on Applied Superconductivity, vol. 27, no. 3, pp. 1-5, 2016.
 * X. Peng, 	**Q. Xu**, T. Kato, Y. Yamanashi, N. Yoshikawa, A. Fujimaki, N. Takagi, K. Takagi and M. Hidaka, ["High-speed demonstration of bit-serial floating-point adders and multipliers using single-flux-quantum circuits"](http://ieeexplore.ieee.org/abstract/document/6990569/), IEEE Transactions on Applied Superconductivity, vol. 25, no. 3, pp. 1-6, 2015.
