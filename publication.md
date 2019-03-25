@@ -5,6 +5,7 @@ layout: default
 ## Publication
 
 **Journal Publications**
+*   N. Takeuchi, C. L. Ayala, **O. Chen** and N. Yoshikawa, ["A feedback-friendly large-scale clocking scheme for adiabatic quantum-flux-parametron logic datapaths,"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8666070&isnumber=6353170) in IEEE Transactions on Applied Superconductivity. doi: 10.1109/TASC.2019.2904480
 *   T. Tanaka, C. L. Ayala, **O. Chen**, R. Saito and N. Yoshikawa, ["Fabrication of Adiabatic Quantum-Flux-Parametron Integrated Circuits Using an Automatic Placement Tool Based on Genetic Algorithms"](https://ieeexplore.ieee.org/document/8643945) in IEEE Transactions on Applied Superconductivity. doi: 10.1109/TASC.2019.2900220
 *   C. Fourie, M. Botha, P. Febvre, C.L. Ayala, 	**Q. Xu**, N. Yoshikawa, E. Patrick, M. Law, Y. Wang, M. Annavaram, P. Beerel, S. Gupta, S. Nazarian and M. Pedram, "ColdFlux Superconducting EDA and TCAD Tools Project: Overview and Progress," in IEEE Transactions on Applied Superconductivity, vol. 29, no. 5, pp. 1-7, Aug. 2019, Art no. 1300407.
 doi: 10.1109/TASC.2019.2892115
@@ -14,7 +15,7 @@ doi: 10.1109/TASC.2019.2892115
 * 	**Q. Xu**, X. Peng, T. Ortlepp, Y. Yamanashi and N. Yoshikawa, ["Demonstration of bit-serial SFQ-based computing for integer iteration algorithms"](http://ieeexplore.ieee.org/abstract/document/6967746/), IEEE Transactions on Applied Superconductivity, vol. 25, no. 3, pp. 1-4, 2015.
 
 **Conference Publications**
-* 	**Olivia. Xu**, "Extremely Energy-efficient Deep Learning Hardware using Adiabatic-flux-quantum Technology (Electronics)", Young Scientist Plenary, 2018 Applied Superconductivity Conference (ASC 2018), Seattle, US, Oct. 2018. **(invited)**
+* 	**Olivia. Chen**, "Extremely Energy-efficient Deep Learning Hardware using Adiabatic-flux-quantum Technology (Electronics)", Young Scientist Plenary, 2018 Applied Superconductivity Conference (ASC 2018), Seattle, US, Oct. 2018. **(invited)**
 * 	**O. Chen**, T. Tanaka, C.L. Ayala, N. Takeuchi and N. Yoshikawa, "Design of Adiabatic-Quantum-Flux-Parametron Register Files Using a Top-Down Design Flow", 2018 Applied Superconductivity Conference (ASC 2018), Seattle, US, Oct. 2018.
 * 	**O. Chen**, X. Ma, Y. Wang, N. Takeuchi and N. Yoshikawa, "Design and implementation of an extremely energy-efficient deep learning accelerator using superconducting logic",  2018 Applied Superconductivity Conference (ASC 2018), Seattle, US, Oct. 2018.
 * C. Fourie, M. Botha, P. Febvre, C.L. Ayala, 	**Q. Xu**, N. Yoshikawa, E. Patrick, M. Law, Y. Wang, M. Annavaram, P. Beerel, S. Gupta, S. Nazarian and M. Pedram, "ColdFlux Superconducting EDA and TCAD Tools Project: Overview and Progress", 2018 Applied Superconductivity Conference (ASC 2018), Seattle, US, Oct. 2018. **(invited)**

@@ -4,7 +4,6 @@ layout: default
 
 **Education**
 * Ph.D., Yokohama National University
-
 **Research Interests**
 * Superconductive electronics
 * Energy-efficient computing
@@ -14,3 +13,6 @@ layout: default
 * Electrical cell modeling for beyond-CMOS technologies
 
 [Detailed Bio](https://saiilc.github.io/homepage/bio.html)
+
+**Contact**
+* chen-olivia-pg at (replace at with @) ynu.ac.jp

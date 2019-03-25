@@ -12,7 +12,7 @@ layout: default
 * It a great pleasure to be selected by Cold Facts, the magazine of the Cryogenic Society of America, as one of the young professionals of 2019. [2019 young professionals](https://cryogenicsociety.org/36872/news/young_professionals_2019_the_next_generation_in_cryogenics_part_1/?fbclid=IwAR1n2CxjXWKhOlH5PH_eI16I2nStuvkOHPuwL4VjAeS5-u-ndOWpgvQ1NqA)
 
 **Mar. 6 (Wed.)**
-* Got invited to give a talk at [ISEC 2019](https://isec2019.org/).
+* Invited talk at [ISEC 2019](https://isec2019.org/).
 * A co-authored manuscript, regarding recent progress of majority synthesis, has been accepted by [GLSVLSI 2019](http://www.glsvlsi.org/index.html) as a full paper.
 * Two co-authored manuscripts have been accepted by IEEE Transactions on Superconductivity.
 
