@@ -5,11 +5,13 @@ layout: default
 ## Now you are in the year of 2019, be aware of it.
 [Highlights of 2018](https://saiilc.github.io/homepage/blog_2018.html)
 
+**Mar. 16 (Sat.)**
+Joint work with NEU has been accepted by ISCA 2019, a top tier conference in computer architecture. This will be the first time that superconducting electronics participates in such a conference. We look forward to presenting our work to a larger audience.
 **Mar. 13 (Wed.)**
 * Peer-review in small community is getting really disappointing. Instead of helping improve the paper quality and build a better community, some reviewers just want to give authors (once they think might be a threat to their interests) a hard time in publishing their work. This is already a small group of researches and not recognized by the majority, why not having a bigger picture? Double-blind peer review may not solve the problem completely but definitely should be a future direction to improve the level of this community.
 
 **Mar. 11 (Mon.)**
-* It a great pleasure to be selected by Cold Facts, the magazine of the Cryogenic Society of America, as one of the young professionals of 2019. [2019 young professionals](https://cryogenicsociety.org/36872/news/young_professionals_2019_the_next_generation_in_cryogenics_part_1/?fbclid=IwAR1n2CxjXWKhOlH5PH_eI16I2nStuvkOHPuwL4VjAeS5-u-ndOWpgvQ1NqA)
+* It a great pleasure to be selected by Cold Facts, the magazine of the Cryogenic Society of America, as one of the [young professionals of 2019](https://cryogenicsociety.org/36872/news/young_professionals_2019_the_next_generation_in_cryogenics_part_1/?fbclid=IwAR1n2CxjXWKhOlH5PH_eI16I2nStuvkOHPuwL4VjAeS5-u-ndOWpgvQ1NqA).
 
 **Mar. 6 (Wed.)**
 * Invited talk at [ISEC 2019](https://isec2019.org/).
