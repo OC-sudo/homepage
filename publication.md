@@ -5,6 +5,9 @@ layout: default
 ## Publication
 
 **Journal Publications**
+
+*   **Olivia Chen**, Ruizhe Cai, Yanzhi Wang, Fei Ke, Taiki Yamae, Ro Saito, Naoki Takeuchi & Nobuyuki Yoshikawa, ["Adiabatic Quantum-Flux-Parametron: Towards Building Extremely Energy-Efficient Circuits and Systems,"](https://www.nature.com/articles/s41598-019-46595-w), in Scientific Reports, vol. 9, no. 10514 (2019), doi:s41598-019-46595-w
+*   **O. Chen**, R Saito, T Tanaka, CL Ayala, N Takeuchi, N Yoshikawa, ["Design of Adiabatic Quantum-Flux-Parametron Register Files Using a Top-Down Design Flow,"](https://ieeexplore.ieee.org/abstract/document/8676266) in IEEE Transactions on Applied Superconductivity. doi: 10.1109/TASC.2019.2908277
 *   N. Takeuchi, C. L. Ayala, **O. Chen** and N. Yoshikawa, ["A feedback-friendly large-scale clocking scheme for adiabatic quantum-flux-parametron logic datapaths,"](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8666070&isnumber=6353170) in IEEE Transactions on Applied Superconductivity. doi: 10.1109/TASC.2019.2904480
 *   T. Tanaka, C. L. Ayala, **O. Chen**, R. Saito and N. Yoshikawa, ["Fabrication of Adiabatic Quantum-Flux-Parametron Integrated Circuits Using an Automatic Placement Tool Based on Genetic Algorithms"](https://ieeexplore.ieee.org/document/8643945) in IEEE Transactions on Applied Superconductivity. doi: 10.1109/TASC.2019.2900220
 *   C. Fourie, M. Botha, P. Febvre, C.L. Ayala, 	**Q. Xu**, N. Yoshikawa, E. Patrick, M. Law, Y. Wang, M. Annavaram, P. Beerel, S. Gupta, S. Nazarian and M. Pedram, "ColdFlux Superconducting EDA and TCAD Tools Project: Overview and Progress," in IEEE Transactions on Applied Superconductivity, vol. 29, no. 5, pp. 1-7, Aug. 2019, Art no. 1300407.
