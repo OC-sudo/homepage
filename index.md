@@ -11,6 +11,8 @@ layout: default
 * Electrical cell modeling for beyond-CMOS technologies　新デバイスのセルモデリング
 
 **What's new　最近の活動**
+* A research proposal has been adopted by JST presto grant. 申請した課題「アルゴリズム・ソフトウェア・ハードウェアの融合による超低電力ニューラルネットワークの構築」がJSTさきがけに採択されました！詳細：[さきがけ2019年度新規採択](https://www.jst.go.jp/kisoken/presto/application/2019/190919/190919presto.pdf?fbclid=IwAR10L3j8JDj6lXITmNgMJMPVJ3Huh0SYYd3pAwc-gVl8LkHXIwWbUEGdbj8)
+* Olivia gave an invited talk to 4th European Conference on Applied Superconductivity at Glasgow, UK. イギリスで開催されたユーロピン応用超伝導大会にて口頭発表を行いました．内容は超電導を用いた乱数発生器についての研究でした．
 * Olivia gave an invited talk to 17th International Superconductive Electronics Conference (ISEC2019) at Riverside. 米リバーサイドで開催された国際超伝導エレクトロニクス大会にて招待講演を行いました．
 * A paper summarizing the energy performance of low-power superconducting circuits has been published on [Scientific Reports](https://www.nature.com/articles/s41598-019-46595-w). 低電力超伝導回路のエネルギー評価に関する論文が論文誌Scientific Reportsに掲載されました．
 * Olivia is invited to be a panelist on the panel of “Superconducting Electronics and EDA” by the 21st ACM/IEEE System Level Interconnect Prediction (SLIP) workshop of Design Automation Conference (DAC). (5/13)
