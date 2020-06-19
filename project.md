@@ -6,7 +6,11 @@ layout: default
 
 **Current project**
 
-IARPA [SuperTools Program](https://www.iarpa.gov/index.php/research-programs/supertools), founded by the Office of the Director of National Intelligence (ODNI), Intelligence Advanced Research Projects Activity (IARPA), via the U.S. Army Research Office grant W911NF-17-1-0120.
+(Principal Investigator) An Ultra-Low Power Neural Network Based on the Co-Development of Algorithm, Software and Hardware, founded by JST Presto [Computing Frontiers Program](https://www.jst.go.jp/kisoken/presto/en/project/1112087/1112087_2019.html) from the Japan Science and Technology Agency (JST).
+
+(Principal Investigator) Development of Low Power Deep Learning Chip Using Superconducting Adiabatic Quantum-Flux-Parametron, founded by Grant-in-Aid for Early-Career Scientists [No. 19K15041](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K15041/) from the Japan Society for the Promotion of Science (JSPS).
+
+IARPA [SuperTools Program](https://www.iarpa.gov/index.php/research-programs/supertools), founded by the Office of the Director of National Intelligence (ODNI), Intelligence Advanced Research Projects Activity (IARPA), via the U.S. Army Research Office grant W911NF-17-1-0120. 
 
 **Previous project**
 
