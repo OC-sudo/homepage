@@ -21,7 +21,7 @@ layout: default
 * It a great pleasure to be selected by Cold Facts, the magazine of the Cryogenic Society of America, as one of the [young professionals of 2019](https://cryogenicsociety.org/36872/news/young_professionals_2019_the_next_generation_in_cryogenics_part_1/?fbclid=IwAR1n2CxjXWKhOlH5PH_eI16I2nStuvkOHPuwL4VjAeS5-u-ndOWpgvQ1NqA). <br>米国低温学会の雑誌「Cold Facts」2019年度若手プロフェッショナルに入選されました。（March 11. 2019）
 * Invited talk at young scientist plenary of Applied Superconductivity Conference in Seattle. <br>2018年度米シアトルにて開催された応用超伝導大会にプレナリーセッションで招待講演を行いました。（10/31/2018）
 
-[MORE](https://saiilc.github.io/homepage/blog.html)
+[MORE](https://oc-sudo.github.io/blog.html)
 
 **Contact　連絡先**
 * chen-olivia-pg at (replace "at" with @) ynu.ac.jp
